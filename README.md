@@ -55,14 +55,11 @@ I am a passionate Full-Stack Web Developer with a love for MERN stack projects. 
   <a href="https://github.com/vrajpatel1812" target="_blank">
     <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" width="80" height="80"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:vrajp771@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email" width="80" height="80"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/vraj-patel-4b364a200/" target="_blank">
     <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="80" height="80"/>
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter" width="80" height="80"/>
   </a>
 </p>
 

@@ -5,7 +5,7 @@ I am a passionate full-stack web developer with a deep love for creating dynamic
 In my free time, you'll find me working on side projects, contributing to open-source, or learning new skills to broaden my development expertise.
 
 ### 🔭 I’m currently working on
-- [Linkverse](https://github.com/vrajpatel1812/link_verse)
+- [Portfolio](https://vrajmern.netlify.app/) - Updating Blog Page.
 
 ### 📫 How to reach me
 - **Email**: [📧 vrajp771@gmail.com](mailto:vrajp771@gmail.com)
@@ -20,3 +20,6 @@ In my free time, you'll find me working on side projects, contributing to open-s
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)

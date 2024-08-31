@@ -13,7 +13,6 @@ In my free time, you'll find me working on side projects, contributing to open-s
 - **LinkedIn**: [vraj-patel](https://www.linkedin.com/in/vraj-patel-4b364a200/)
 
 ### What I use:
-### What I use:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)

@@ -13,13 +13,54 @@ In my free time, you'll find me working on side projects, contributing to open-s
 - **LinkedIn**: [vraj-patel](https://www.linkedin.com/in/vraj-patel-4b364a200/)
 
 ### What I use:
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" width="80" height="80"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/docker.png" alt="Docker" width="80" height="80"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="80" height="80"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="Firebase" width="80" height="80"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/tailwindcss.png" alt="Tailwind CSS" width="80" height="80"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="Bootstrap" width="80" height="80"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React" width="80" height="80"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" width="80" height="80"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" width="80" height="80"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="80" height="80"/>
+  </a>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/vrajpatel1812" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" width="80" height="80"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email" width="80" height="80"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="80" height="80"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter" width="80" height="80"/>
+  </a>
+</p>

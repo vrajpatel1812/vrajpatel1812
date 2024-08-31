@@ -1,18 +1,19 @@
-## Hi 👋, I'm Vraj
+# Hi 👋, I'm Vraj
 
-I am a passionate full-stack web developer with a deep love for creating dynamic and responsive web applications. With experience in both front-end and back-end technologies, I am always eager to dive into new projects and challenges. I thrive on problem-solving and am constantly learning and adapting to the ever-evolving tech landscape.
+I am a passionate Full-Stack Web Developer with a love for MERN stack projects. I also enjoy working on Telegram and Discord bots, creating automated tools, and constantly learning new technologies. In my free time, I love watching football and have a dream to watch a live match in a stadium one day.
 
-In my free time, you'll find me working on side projects, contributing to open-source, or learning new skills to broaden my development expertise.
+---
 
-### 🔭 I’m currently working on
-- [Portfolio](https://vrajmern.netlify.app/) - Updating Blog Page.
+### 🌟 About Me
+- 🔭 I’m currently working on **Portfolio Blogs**
+- 🌱 I’m currently learning **Advanced ReactJS** and **Backend Development**
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-### 📫 How to reach me
-- **Email**: [📧 vrajp771@gmail.com](mailto:vrajp771@gmail.com)
-- **Portfolio**: [Vraj Patel](https://vrajmern.netlify.app/)
-- **LinkedIn**: [vraj-patel](https://www.linkedin.com/in/vraj-patel-4b364a200/)
+---
 
-### What I use:
+### 💻 Skills & Technologies
+
+#### Programming Languages & Tools
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" width="80" height="80"/>
@@ -64,3 +65,28 @@ In my free time, you'll find me working on side projects, contributing to open-s
     <img src="https://img.icons8.com/color/96/000000/twitter.png" alt="Twitter" width="80" height="80"/>
   </a>
 </p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vrajpatel1812&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrajpatel1812&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajpatel1812&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+### 🔗 Projects
+
+- **Global Stay**: A global platform for room listings with a world map interface. Users can add, view, and manage room information.
+- **Image Globe**: A project for uploading and managing images using Google Firebase with login, password management, and account deletion features.
+
+---

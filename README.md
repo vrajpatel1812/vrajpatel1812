@@ -1,6 +1,10 @@
 # Hi 👋, I'm Vraj
 
-I am a passionate Full-Stack Web Developer with a love for MERN stack projects. I also enjoy working on Telegram and Discord bots, creating automated tools, and constantly learning new technologies. In my free time, I love watching football and have a dream to watch a live match in a stadium one day.
+Passionate about full-stack web development and constantly striving to improve my skills and knowledge. I love creating and refining applications, focusing on both frontend and backend development, while also exploring the latest in frameworks and technologies. My work often involves building robust solutions that solve real-world problems, and I find joy in every step of the process.
+
+I am deeply engaged in the tech community, frequently contributing to open-source projects and collaborating with fellow developers. My journey has equipped me with a diverse skill set, including expertise in frameworks like React and Node.js, and I'm always eager to learn more.
+
+When I'm not coding, you'll find me exploring new technologies, refining my problem-solving skills, or simply enjoying the latest football game. I'm driven by the desire to innovate and make an impact through technology.
 
 ---
 

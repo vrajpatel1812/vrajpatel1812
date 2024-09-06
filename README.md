@@ -85,9 +85,20 @@ When I'm not coding, you'll find me exploring new technologies, refining my prob
 
 ---
 
-### 🔗 Projects
+### 🔗 Live Projects
 
-- **Global Stay**: A global platform for room listings with a world map interface. Users can add, view, and manage room information.
-- **Image Globe**: A project for uploading and managing images using Google Firebase with login, password management, and account deletion features.
+- **Global Stay**: [Live Project](https://globalstay.netlify.app)  
+  A global platform for room listings with a world map interface. Users can add, view, and manage room information.
+
+- **Image Globe**: [Live Project](https://image-globe.vercel.app)  
+  A project for uploading and managing images using Google Firebase with login, password management, and account deletion features.
 
 ---
+
+### 📂 Portfolio & CV
+
+- [Portfolio Website](https://vrajmern.netlify.app)  
+- [My CV](https://drive.google.com/file/d/1iYikaz6zYwQhFyLCPjnaRfo6EP2Q6X06/view)
+
+---
+
